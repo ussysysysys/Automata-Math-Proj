@@ -1,1 +1,1 @@
-# Automata-Math-Proj.
+# Automata-Math-Proj
