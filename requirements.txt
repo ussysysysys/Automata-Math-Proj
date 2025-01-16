@@ -1,0 +1,10 @@
+streamlit
+numpy
+scipy.spatial
+numpy
+matplotlib.pyplot
+PIL
+FuncAnimation
+FFMpegWriter
+tempfile
+os
