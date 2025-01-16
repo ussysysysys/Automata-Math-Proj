@@ -130,5 +130,6 @@ if uploaded_file is not None:
     st.video(video_file)
 
 else:
+    
     st.write("Please upload an image file to start the simulation.")
 
