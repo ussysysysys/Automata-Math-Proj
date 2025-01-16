@@ -1,7 +1,6 @@
 streamlit
 Pillow
-FuncAnimation
-FFMpegWriter
+matplotlib
 tempfile
 os
 numpy==1.23.0  # หรือเวอร์ชันที่รองรับ Python 3.12
