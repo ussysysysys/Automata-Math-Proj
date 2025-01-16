@@ -1,5 +1,14 @@
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')  # ใช้ backend ที่ไม่ต้องการการแสดงผล GUI
 import matplotlib.pyplot as plt
+
+# โค้ดที่เหลือสำหรับการสร้างกราฟ
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.ylabel('y values')
+plt.xlabel('x values')
+plt.title('Example Plot')
+plt.savefig('plot.png') 
 from scipy.spatial import KDTree
 from PIL import Image
 from matplotlib.animation import FuncAnimation, FFMpegWriter
