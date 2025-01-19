@@ -1,3 +1,5 @@
 import matplotlib
 print(matplotlib.__version__)
 import matplotlib.backends.registry
+import matplotlib
+from matplotlib.backends import backend_registry
